@@ -13,18 +13,13 @@ c)Java Virtual Machine;
 
 QCM 4 - Que fait une JVM ?
 
-a)Elle compile le code;
+
 b)C'est l'environnement d’exécution de Java;
-c)Elle corrige les erreurs dans le code;
-d)C'est un IDE;
-e)Elle met à disposition des libraires et des APIs;
-f)C'est un système d'exploitation.
+
 QCM 5 - Qu'est-ce qu'un JDK ?
 
-a)C'est l'environnement d’exécution de Java;
-
 d)Il compile le code;
-e)Elle met à disposition des libraires et des APIs;
+
 
 QCM 6 - Qu'est-ce que le ByteCode ?
 
